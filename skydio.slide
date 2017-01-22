@@ -19,3 +19,18 @@ This presentation is generated using the Golang [[https://godoc.org/golang.org/x
 The go present tool is written entirely in Go and slides are created using a simple formatting syntax which is used to generate the slides using Go's template package.
 
 
+################################################################################
+* 2 Truths 1 Lie
+
+I am ...
+A) a competitive foosball player
+B) a Host with value of 20 for bulk apperception
+C) a collegiate (club) lacrosse player
+
+
+################################################################################
+* 2 Truths 1 Lie
+
+.image img/foosball.jpg 150 _
+.image img/maevex.jpg 150 _
+.image img/calpolylax.jpg 150 _
