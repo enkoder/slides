@@ -1,0 +1,21 @@
+################################################################################
+Kodie Goodwin
+January 23rd 2017
+Tags: skydio, intro, slides, golang
+# The subtitle, date, and tags lines are optional.
+# The date line may be written without a time.
+
+kodiegoodwin@gmail.com
+https://github.com/enkoder
+
+
+################################################################################
+* Go Present
+
+This presentation is generated using the Golang [[https://godoc.org/golang.org/x/tools/present][present tool]] for slide presentation. This code is hosted on my Github at
+
+.link https://github.com/enkoder/slides
+
+The go present tool is written entirely in Go and slides are created using a simple formatting syntax which is used to generate the slides using Go's template package.
+
+
