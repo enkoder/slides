@@ -22,47 +22,49 @@ This presentation tool is written entirely in Go and slides are created using a 
 .caption I <3 Go
 
 
-################################################################################
-* 2 Truths 1 Lie
+#################################################################################
+* 2 Truths and 1 Lie
 
-I am ...
-A) a competitive foosball player
-B) a Host with value of 20 for bulk apperception
-C) a collegiate (club) lacrosse player
+
+################################################################################
+* 2 Truths and 1 Lie
+
+a) I am a competitive foosball player
+b) I don't own any Apple products
+c) I am a collegiate lacrosse player
 
 
 ################################################################################
 * 2 Truths 1 Lie
 
 .image img/foosball.jpg 175 _
-.image img/maevex.jpg 150 _
+.image img/earpods.jpg 150 _
 .image img/calpolylax.jpg 150 _
 
 
 ################################################################################
-* 2 Truths 1 Lie
+* 2 Truths and 1 Lie
 
-A) I have been to Burning Man for the past 3 years
-B) I own bonsai trees
-C) I raised pigs growing up as a kid
+a) I have been to Burning Man for the past 3 years
+b) I own bonsai trees
+c) I raised pigs growing up
 
 
 ################################################################################
 * 2 Truths 1 Lie
 
 .image img/burnx.jpg 150 _
-.image img/bonsai.jpg 200 _
-# TODO: take picture of me with creampuff
-#.image img/pigs.jpg 150 _
+.image img/bonsai.jpg 150 _
+.image img/kodiepig.jpg 150 _
 
 
 ################################################################################
-* Engineer: An Origin Story
+* An Origin Story
 
 Modded original xboxes in high school introducing me to
 
 - Unix OS
-- Flashing eeproms and firmware
+- Flashing eeproms with custom firmware
 - Soldering
 - Solving technical challenges
 
@@ -74,7 +76,7 @@ Modded original xboxes in high school introducing me to
 
 Computer Engineering at Cal Poly San Luis Obispo.
 
-Worked as an Intern at Intel during the summer, *5* *total*. Great exposure to:
+Interned at Intel during the summers, *5* *total*. Great exposure to:
 
 - different types of managers
 - politics in large companies
