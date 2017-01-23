@@ -16,7 +16,10 @@ This presentation is generated using the Golang [[https://godoc.org/golang.org/x
 
 .link https://github.com/enkoder/slides
 
-The go present tool is written entirely in Go and slides are created using a simple formatting syntax which is used to generate the slides using Go's template package.
+This presentation tool is written entirely in Go and slides are created using a simple formatting syntax which is used to generate the slides using Go's template package.
+
+.image img/gopher.png 250 _
+.caption I <3 Go
 
 
 ################################################################################
